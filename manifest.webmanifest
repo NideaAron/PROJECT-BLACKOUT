@@ -1,0 +1,12 @@
+{
+  "name": "Strike Ops 3D FPS",
+  "short_name": "Strike Ops 3D FPS",
+  "id": "com.example.gamename",
+  "description": "A first-person shooter in a canyon made with a 3D terrain, with cover on uneven ground, a ramp up to a plateau, and enemies looking for the player.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
